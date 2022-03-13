@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# virtual env
+.venv/*
+
+# output files
+*.csv
